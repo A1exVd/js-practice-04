@@ -287,7 +287,7 @@ main {
 
 /* Карточка статистики — генерируется в script.js */
 .stat-card {
-  background: #f8fafc;
+  background: var(--bg-product-card);
   border: 1.5px solid #e2e8f0;
   border-radius: 10px;
   padding: 14px 18px;
